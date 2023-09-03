@@ -60,14 +60,8 @@
                     <a href="employees" target="_blank"  class="btn btn-primary">Go &rarr;</a>
                 </div>
             </div>
-            <div class="card mx-3" style="width: 18rem;">
-                <img class="card-img-top" src="images/task-management.jpg" alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title">Task Management</h5>
-                    <p class="card-text">This is designed for managing the tasks assigned to the members and employees.</p>
-                    <a href="https://management.sentinelworkforce.com" target="_blank"  class="btn btn-primary">Go &rarr;</a>
-                </div>
-            </div>
+            
+        
         </div>
     </div>
 </body>
